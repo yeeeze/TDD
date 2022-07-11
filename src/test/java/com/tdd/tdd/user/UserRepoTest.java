@@ -1,7 +1,7 @@
 package com.tdd.tdd.user;
 
 import com.tdd.tdd.src.user.User;
-import com.tdd.tdd.src.user.UserRepository;
+import com.tdd.tdd.src.user.repository.UserRepository;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,4 +1,4 @@
-package com.tdd.tdd.src.user;
+package com.tdd.tdd.src.user.dto;
 
 import lombok.*;
 

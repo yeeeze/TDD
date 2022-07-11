@@ -1,5 +1,6 @@
-package com.tdd.tdd.src.user;
+package com.tdd.tdd.src.user.dto;
 
+import com.tdd.tdd.src.user.User;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Getter;
